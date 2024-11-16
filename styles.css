@@ -5,19 +5,19 @@
 
 /* Scrollbar styling (optional) */
 body::-webkit-scrollbar {
-    width: 8px;
+  width: 8px;
 }
 
 body::-webkit-scrollbar-track {
-    background: #1a202c;
+  background: #1a202c;
 }
 
 body::-webkit-scrollbar-thumb {
-    background-color: #4a5568;
-    border-radius: 4px;
+  background-color: #4a5568;
+  border-radius: 4px;
 }
 
 /* Smooth scrolling for in-page navigation */
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
